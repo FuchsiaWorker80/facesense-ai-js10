@@ -1,4 +1,4 @@
-# 
+# Oficial FaceSense paquete. Descarga e instala con guía paso a paso y listo para Docker — rápido, seguro y fácil de usar.
 
 
 
